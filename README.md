@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matej-kaska&label=Profile%20views&color=0e75b6&style=flat" alt="matej-kaska" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matej-kaska" alt="matej-kaska" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/piss_ek" target="blank"><img src="https://img.shields.io/twitter/follow/piss_ek?logo=twitter&style=for-the-badge" alt="piss_ek" /></a> </p>
-
 - 🔭 I’m currently working on [edubo](https://www.edubo.cz/)
 
 - 🌱 I’m currently learning **TypeScript and React**
@@ -27,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matej-kaska&show_icons=true&locale=en&layout=compact" alt="matej-kaska" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matej-kaska&show_icons=true&locale=en" alt="matej-kaska" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matej-kaska&" alt="matej-kaska" /></p>
