@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matěj Kaška</h1>
-<h3 align="center">I am a 23 year-old student and junior developer, currently studying at a college. My main focus is Python and I have experience in web development as well. I am passionate about programming and technology.</h3>
+<h3 align="center">I am a 23 year-old student and junior developer, currently studying at a college. My main focus is Python and React. I have experience in web development. I am passionate about programming and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matej-kaska&label=Profile%20views&color=0e75b6&style=flat" alt="matej-kaska" /> </p>
 
-- 🔭 I’m currently working on [edubo](https://www.edubo.cz/)
+- 🔭 I’m currently working on [edubo](https://www.edubo.cz/) and [eduklub](https://www.eduklub.cz/) 
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
@@ -38,6 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
