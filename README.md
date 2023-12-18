@@ -38,8 +38,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img1.pnghut.com/21/5/24/H3DtZejy1K/logo-web-development-programmer-green-tutorial.jpg" alt="django" width="40" height="40" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+    <img src="https://imgur.com/a/VHe63E9" alt="flask" width="40" height="40" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
