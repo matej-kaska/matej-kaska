@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [edubo](https://www.edubo.cz/) and [eduklub](https://www.eduklub.cz/) 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **DevLink in WebFlow**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
