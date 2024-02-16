@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
-- 🎯 My main projects: [Edubo](https://www.app.eduklub.cz/) and [Eduklub](https://www.plany-vyuky.eduklub.cz/)
+- 🎯 My main projects: [Edubo](https://app.eduklub.cz/) and [Eduklub](https://plany-vyuky.eduklub.cz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
