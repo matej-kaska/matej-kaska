@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matej-kaska&label=Profile%20views&color=0e75b6&style=flat" alt="matej-kaska" /> </p>
 
-- 🔭 I’m currently working on [sesh](https://www.sesh.cz/)
+- 🔭 I’m currently working on [sesh](https://www.sesh.cz/) and InterAGE
 
 - 🌱 I’m currently learning **Django** and **DevLink in WebFlow**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
-- 🎯 My main projects: [edubo](https://www.edubo.cz/) and [eduklub](https://www.eduklub.cz/)
+- 🎯 My main projects: [Edubo](https://www.app.eduklub.cz/) and [Eduklub](https://www.plany-vyuky.eduklub.cz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
