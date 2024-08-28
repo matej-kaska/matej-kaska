@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [sesh](https://www.sesh.cz/) and [IntegrAGE](https://satool.ujep.cz/)
 
-- 🌱 I’m currently learning **Django** and **DevLink in WebFlow**
+- 🌱 I’m currently learning **Next.js** and **DevLink in WebFlow**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
