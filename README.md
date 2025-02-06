@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matěj Kaška</h1>
-<h3 align="center">I am a 24 year-old student and junior developer, currently studying at a college. My main focus is Python and React. I have experience in web development. I am passionate about programming and technology.</h3>
+<h3 align="center">I am a 24 year-old student and medior developer, currently studying at a college. My main focus is Python and React. I have experience in web development. I am passionate about programming and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matej-kaska&label=Profile%20views&color=0e75b6&style=flat" alt="matej-kaska" /> </p>
 
+- 👨‍💻 Working at [Databig](https://www.databig.cz/) and developing internal software.
+
 - 🔭 I’m currently working on [sesh](https://www.sesh.cz/) and [IntegrAGE](https://satool.ujep.cz/)
 
-- 🌱 I’m currently learning **Next.js** and **DevLink in WebFlow**
+- 🌱 I’m currently learning **React Router v7** and **DevLink in WebFlow**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
