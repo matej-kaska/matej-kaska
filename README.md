@@ -40,6 +40,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="40" height="40"/></a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/></a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.electronjs.org/" alt="electron" width="40" height="40"/></a>
   <a href="https://elysiajs.com/" target="_blank" rel="noreferrer"> <img src="https://elysiajs.com/assets/elysia.svg" alt="elysiajs" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" alt="django" width="40" height="40" /></a>
