@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Matěj Kaška</h1>
-<h3 align="center">I am a 24 year-old student and medior developer, currently studying at a college. My main focus is Python and React. I have experience in web development. I am passionate about programming and technology.</h3>
+<h3 align="center">I am a 26 year-old student and medior developer. My main focus is TypeScript, React and Python. I am passionate about programming and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matej-kaska&label=Profile%20views&color=0e75b6&style=flat" alt="matej-kaska" /> </p>
 
-- 👨‍💻 Working at [Databig](https://www.databig.cz/) and developing internal software.
+- 👨‍💻 Working at [CreatiCom](https://creaticom.cz/) and developing software.
 
-- 🔭 I’m currently working on [sesh](https://www.sesh.cz/) and [IntegrAGE](https://satool.ujep.cz/)
+- 🔭 I’m currently working on [Vize—Studio](https://www.vize-studio.cz/).
 
 - 🌱 I’m currently learning **React Router v7** and **DevLink in WebFlow**
 
 - 📫 How to reach me **nkaskaj@gmail.com**
 
-- 🎯 My main projects: [Edubo](https://app.eduklub.cz/), [Eduklub](https://plany-vyuky.eduklub.cz/) and [UJEP Soft](https://ujepsoft.ujep.cz/)
+- 🎯 My main projects: [Edubo](https://app.eduklub.cz/), [Eduklub](https://plany-vyuky.eduklub.cz/), [UJEP Soft](https://ujepsoft.ujep.cz/) and [SA Tool](https://satool.ujep.cz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,7 +63,3 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/matej-kaska/matej-kaska/ea4774f7e045359029d190e1b4e7ada03501f759/neo4j-logo.png" alt="redis" width="40" height="40" /></a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matej-kaska&show_icons=true&locale=en&layout=compact" alt="matej-kaska" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matej-kaska&show_icons=true&locale=en" alt="matej-kaska" /></p>
