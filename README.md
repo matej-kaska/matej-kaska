@@ -43,7 +43,7 @@
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron" width="40" height="40"/></a>
   <a href="https://elysiajs.com/" target="_blank" rel="noreferrer"> <img src="https://elysiajs.com/assets/elysia.svg" alt="elysiajs" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png" alt="django" width="40" height="40" /></a>
+    <img src="https://cdn.flyonui.com/fy-assets/icons/django-icon.png" alt="django" width="40" height="40" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/N4AeJdp.png" alt="flask" width="40" height="40" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
